@@ -1,0 +1,2 @@
+# GeophysicalStationManagementSystem
+ 基于ssm的地球物理台管理系统：集成站台管理、相关学科管理等功能于一体的系统
